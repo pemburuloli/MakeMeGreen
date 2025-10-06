@@ -1,5 +1,5 @@
 # Name of the GitHub Actions workflow
-name: Auh
+name: Auhg
 
 on:
   push:
